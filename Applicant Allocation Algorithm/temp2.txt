@@ -1,0 +1,111 @@
+Current SPLA Pick: 00001
+Updated SPLA Availability: [0, 1, 0, 0, 1, 1, 1]
+Remaining SPLA: ['00002']
+Remaining LAHSA: ['00002', '00003', '00004']
+LAHSA   ['00001']        []
+Current LAHSA Pick: 00002
+Updated LAHSA Availability: [1, 0, 1, 1, 1, 0, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00003', '00004']
+LAHSA   ['00001']        ['00002']
+Current LAHSA Pick: 00003
+Updated LAHSA Availability: [1, 0, 1, 0, 1, 0, 0]
+Remaining SPLA: []
+Remaining LAHSA: ['00004']
+LAHSA   ['00001']        ['00002', '00003']
+Current LAHSA Pick: 00004
+Updated LAHSA Availability: [0, 0, 1, 0, 0, 0, 0]
+Remaining SPLA: []
+Remaining LAHSA: []
+LAHSA   ['00001']        ['00002', '00003', '00004']
+Return LAHSA Values: 3 6
+Current Key  :['00001']['00002', '00003', '00004']LAHSA Current Values  [3, 6]Return LAHSA Values: 3 6
+Current Key  :['00001']['00002', '00003']LAHSA Current Values  [3, 6]Current LAHSA Pick: 00004
+Updated LAHSA Availability: [0, 0, 1, 1, 0, 0, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00003']
+LAHSA   ['00001']        ['00002', '00004']
+Current LAHSA Pick: 00003
+Updated LAHSA Availability: [0, 0, 1, 0, 0, 0, 0]
+Remaining SPLA: []
+Remaining LAHSA: []
+LAHSA   ['00001']        ['00002', '00004', '00003']
+Return LAHSA Values: 3 6
+Current Key  :['00001']['00002', '00004']LAHSA Current Values  [3, 6]Return LAHSA Values: 3 6
+Current Key  :['00001']['00002']LAHSA Current Values  [3, 6]Current LAHSA Pick: 00003
+Updated LAHSA Availability: [1, 1, 1, 0, 1, 1, 0]
+Remaining SPLA: ['00002']
+Remaining LAHSA: ['00002', '00004']
+SPLA   x['00001']        ['00003']
+Current SPLA Pick: 00002
+Updated SPLA Availability: [0, 0, 0, 0, 1, 0, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00004']
+LAHSA   ['00001', '00002']        ['00003']
+Current LAHSA Pick: 00004
+Updated LAHSA Availability: [0, 1, 1, 0, 0, 1, 0]
+Remaining SPLA: []
+Remaining LAHSA: []
+LAHSA   ['00001', '00002']        ['00003', '00004']
+Return LAHSA Values: 5 4
+Current Key  :['00001', '00002']['00003', '00004']LAHSA Current Values  [5, 4]Return LAHSA Values: 5 4
+Current Key  :['00001', '00002']['00003']LAHSA Current Values  [5, 4]Return SPLA Values: 5 4
+Current Key  :['00001']['00003']SPLA Current Values  [5, 4]Current LAHSA Pick: 00004
+Updated LAHSA Availability: [0, 1, 1, 1, 0, 1, 1]
+Remaining SPLA: ['00002']
+Remaining LAHSA: ['00002', '00003']
+SPLA   x['00001']        ['00004']
+Current SPLA Pick: 00002
+Updated SPLA Availability: [0, 0, 0, 0, 1, 0, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00003']
+LAHSA   ['00001', '00002']        ['00004']
+Current LAHSA Pick: 00003
+Updated LAHSA Availability: [0, 1, 1, 0, 0, 1, 0]
+Remaining SPLA: []
+Remaining LAHSA: []
+LAHSA   ['00001', '00002']        ['00004', '00003']
+Return LAHSA Values: 5 4
+Current Key  :['00001', '00002']['00004']LAHSA Current Values  [5, 4]Return SPLA Values: 5 4
+Current Key  :['00001']['00004']SPLA Current Values  [5, 4]Return LAHSA Values: 3 6
+Current Key  :['00001'][]LAHSA Current Values  [3, 6]Current SPLA Pick: 00002
+Updated SPLA Availability: [1, 0, 1, 1, 1, 0, 1]
+Remaining SPLA: ['00001']
+Remaining LAHSA: ['00001', '00003', '00004']
+LAHSA   ['00002']        []
+Current LAHSA Pick: 00001
+Updated LAHSA Availability: [0, 1, 0, 0, 1, 1, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00004']
+LAHSA   ['00002']        ['00001']
+Current LAHSA Pick: 00004
+Updated LAHSA Availability: [-1, 1, 0, 0, 0, 1, 1]
+Remaining SPLA: []
+Remaining LAHSA: []
+LAHSA   ['00002']        ['00001', '00004']
+Return LAHSA Values: 2 5
+Current Key  :['00002']['00001', '00004']LAHSA Current Values  [2, 5]Return LAHSA Values: 2 5
+Current Key  :['00002']['00001']LAHSA Current Values  [2, 5]Current LAHSA Pick: 00003
+Updated LAHSA Availability: [1, 1, 1, 0, 1, 1, 0]
+Remaining SPLA: ['00001']
+Remaining LAHSA: ['00004']
+SPLA   x['00002']        ['00003']
+Current SPLA Pick: 00001
+Updated SPLA Availability: [0, 0, 0, 0, 1, 0, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00004']
+LAHSA   ['00002', '00001']        ['00003']
+Return SPLA Values: 5 4
+Current Key  :['00002']['00003']SPLA Current Values  [5, 4]Current LAHSA Pick: 00004
+Updated LAHSA Availability: [0, 1, 1, 1, 0, 1, 1]
+Remaining SPLA: ['00001']
+Remaining LAHSA: ['00003']
+SPLA   x['00002']        ['00004']
+Current SPLA Pick: 00001
+Updated SPLA Availability: [0, 0, 0, 0, 1, 0, 1]
+Remaining SPLA: []
+Remaining LAHSA: ['00003']
+LAHSA   ['00002', '00001']        ['00004']
+Return SPLA Values: 5 4
+Current Key  :['00002']['00004']SPLA Current Values  [5, 4]Return LAHSA Values: 2 5
+Current Key  :['00002'][]LAHSA Current Values  [2, 5]
