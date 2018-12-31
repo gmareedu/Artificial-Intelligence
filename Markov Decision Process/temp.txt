@@ -1,0 +1,760 @@
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.5488135039273248
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.7151893663724195
+Updated move: 1
+Next Position: [8, 3]
+Current Reward: -2.0
+Best move from: [8, 3]:  0
+Swerve: 0.6027633760716439
+Updated move: 0
+Next Position: [7, 3]
+Current Reward: -3.0
+Best move from: [7, 3]:  3
+Swerve: 0.5448831829968969
+Updated move: 3
+Next Position: [7, 4]
+Current Reward: -4.0
+Best move from: [7, 4]:  0
+Swerve: 0.4236547993389047
+Updated move: 0
+Next Position: [6, 4]
+Current Reward: -5.0
+Best move from: [6, 4]:  3
+Swerve: 0.6458941130666561
+Updated move: 3
+Next Position: [6, 5]
+Current Reward: -6.0
+Best move from: [6, 5]:  3
+Swerve: 0.4375872112626925
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -7.0
+Best move from: [6, 6]:  3
+Swerve: 0.8917730007820798
+Updated move: 2
+Next Position: [7, 6]
+Current Reward: -8.0
+Best move from: [7, 6]:  0
+Swerve: 0.9636627605010293
+Updated move: 2
+Next Position: [8, 6]
+Current Reward: -109.0
+Best move from: [8, 6]:  0
+Swerve: 0.3834415188257777
+Updated move: 0
+Next Position: [7, 6]
+Current Reward: -110.0
+Best move from: [7, 6]:  0
+Swerve: 0.7917250380826646
+Updated move: 1
+Next Position: [7, 5]
+Current Reward: -111.0
+Best move from: [7, 5]:  0
+Swerve: 0.5288949197529045
+Updated move: 0
+Next Position: [6, 5]
+Current Reward: -112.0
+Best move from: [6, 5]:  3
+Swerve: 0.5680445610939323
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -113.0
+Best move from: [6, 6]:  3
+Swerve: 0.925596638292661
+Updated move: 1
+Next Position: [6, 5]
+Current Reward: -114.0
+Best move from: [6, 5]:  3
+Swerve: 0.07103605819788694
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -115.0
+Best move from: [6, 6]:  3
+Swerve: 0.08712929970154071
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -116.0
+Best move from: [6, 7]:  3
+Swerve: 0.02021839744032572
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -117.0
+Best move from: [6, 8]:  3
+Swerve: 0.832619845547938
+Updated move: 2
+Next Position: [7, 8]
+Current Reward: -118.0
+Best move from: [7, 8]:  0
+Swerve: 0.7781567509498505
+Updated move: 1
+Next Position: [7, 7]
+Current Reward: -219.0
+Best move from: [7, 7]:  0
+Swerve: 0.8700121482468192
+Updated move: 3
+Next Position: [7, 8]
+Current Reward: -220.0
+Best move from: [7, 8]:  0
+Swerve: 0.978618342232764
+Updated move: 2
+Next Position: [8, 8]
+Current Reward: -221.0
+Best move from: [8, 8]:  0
+Swerve: 0.7991585642167236
+Updated move: 1
+Next Position: [8, 7]
+Current Reward: -222.0
+Best move from: [8, 7]:  3
+Swerve: 0.46147936225293185
+Updated move: 3
+Next Position: [8, 8]
+Current Reward: -223.0
+Best move from: [8, 8]:  0
+Swerve: 0.7805291762864555
+Updated move: 1
+Next Position: [8, 7]
+Current Reward: -224.0
+Best move from: [8, 7]:  3
+Swerve: 0.11827442586893322
+Updated move: 3
+Next Position: [8, 8]
+Current Reward: -225.0
+Best move from: [8, 8]:  0
+Swerve: 0.6399210213275238
+Updated move: 0
+Next Position: [7, 8]
+Current Reward: -226.0
+Best move from: [7, 8]:  0
+Swerve: 0.1433532874090464
+Updated move: 0
+Next Position: [6, 8]
+Current Reward: -227.0
+Best move from: [6, 8]:  3
+Swerve: 0.9446689170495839
+Updated move: 1
+Next Position: [6, 7]
+Current Reward: -228.0
+Best move from: [6, 7]:  3
+Swerve: 0.5218483217500717
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -229.0
+Best move from: [6, 8]:  3
+Swerve: 0.4146619399905236
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -230.0
+Best move from: [6, 9]:  0
+Swerve: 0.26455561210462697
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: -131.0
+Total reward after one more iteration:************** -131.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.417022004702574
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.7203244934421581
+Updated move: 1
+Next Position: [8, 3]
+Current Reward: -2.0
+Best move from: [8, 3]:  0
+Swerve: 0.00011437481734488664
+Updated move: 0
+Next Position: [7, 3]
+Current Reward: -3.0
+Best move from: [7, 3]:  3
+Swerve: 0.30233257263183977
+Updated move: 3
+Next Position: [7, 4]
+Current Reward: -4.0
+Best move from: [7, 4]:  0
+Swerve: 0.14675589081711304
+Updated move: 0
+Next Position: [6, 4]
+Current Reward: -5.0
+Best move from: [6, 4]:  3
+Swerve: 0.0923385947687978
+Updated move: 3
+Next Position: [6, 5]
+Current Reward: -6.0
+Best move from: [6, 5]:  3
+Swerve: 0.1862602113776709
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -7.0
+Best move from: [6, 6]:  3
+Swerve: 0.34556072704304774
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -8.0
+Best move from: [6, 7]:  3
+Swerve: 0.39676747423066994
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -9.0
+Best move from: [6, 8]:  3
+Swerve: 0.538816734003357
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -10.0
+Best move from: [6, 9]:  0
+Swerve: 0.4191945144032948
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: 89.0
+Total reward after one more iteration:************** -42.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.43599490214200376
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.025926231827891333
+Updated move: 0
+Next Position: [7, 4]
+Current Reward: -2.0
+Best move from: [7, 4]:  0
+Swerve: 0.5496624778787091
+Updated move: 0
+Next Position: [6, 4]
+Current Reward: -3.0
+Best move from: [6, 4]:  3
+Swerve: 0.4353223926182769
+Updated move: 3
+Next Position: [6, 5]
+Current Reward: -4.0
+Best move from: [6, 5]:  3
+Swerve: 0.42036780208748903
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -5.0
+Best move from: [6, 6]:  3
+Swerve: 0.3303348210038741
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -6.0
+Best move from: [6, 7]:  3
+Swerve: 0.2046486340378425
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -7.0
+Best move from: [6, 8]:  3
+Swerve: 0.6192709663506637
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -8.0
+Best move from: [6, 9]:  0
+Swerve: 0.29965467367452314
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: 91.0
+Total reward after one more iteration:************** 49.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.5507979025745755
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.7081478226181048
+Updated move: 1
+Next Position: [8, 3]
+Current Reward: -2.0
+Best move from: [8, 3]:  0
+Swerve: 0.2909047389129443
+Updated move: 0
+Next Position: [7, 3]
+Current Reward: -3.0
+Best move from: [7, 3]:  3
+Swerve: 0.510827605197663
+Updated move: 3
+Next Position: [7, 4]
+Current Reward: -4.0
+Best move from: [7, 4]:  0
+Swerve: 0.8929469543476547
+Updated move: 3
+Next Position: [7, 5]
+Current Reward: -5.0
+Best move from: [7, 5]:  0
+Swerve: 0.8962930889334381
+Updated move: 3
+Next Position: [7, 6]
+Current Reward: -6.0
+Best move from: [7, 6]:  0
+Swerve: 0.12558531046383625
+Updated move: 0
+Next Position: [6, 6]
+Current Reward: -7.0
+Best move from: [6, 6]:  3
+Swerve: 0.20724287813818676
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -8.0
+Best move from: [6, 7]:  3
+Swerve: 0.05146720330082988
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -9.0
+Best move from: [6, 8]:  3
+Swerve: 0.44080984365063647
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -10.0
+Best move from: [6, 9]:  0
+Swerve: 0.029876210878566956
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: 89.0
+Total reward after one more iteration:************** 138.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.9670298390136767
+Updated move: 2
+Next Position: [9, 4]
+Current Reward: -1.0
+Best move from: [9, 4]:  0
+Swerve: 0.5472322491757223
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -2.0
+Best move from: [8, 4]:  0
+Swerve: 0.9726843599648843
+Updated move: 2
+Next Position: [9, 4]
+Current Reward: -3.0
+Best move from: [9, 4]:  0
+Swerve: 0.7148159936743647
+Updated move: 1
+Next Position: [9, 3]
+Current Reward: -104.0
+Best move from: [9, 3]:  0
+Swerve: 0.6977288245972708
+Updated move: 0
+Next Position: [8, 3]
+Current Reward: -105.0
+Best move from: [8, 3]:  0
+Swerve: 0.21608949558037638
+Updated move: 0
+Next Position: [7, 3]
+Current Reward: -106.0
+Best move from: [7, 3]:  3
+Swerve: 0.9762744547762418
+Updated move: 1
+Next Position: [7, 2]
+Current Reward: -107.0
+Best move from: [7, 2]:  3
+Swerve: 0.006230255204589863
+Updated move: 3
+Next Position: [7, 3]
+Current Reward: -108.0
+Best move from: [7, 3]:  3
+Swerve: 0.25298236238344396
+Updated move: 3
+Next Position: [7, 4]
+Current Reward: -109.0
+Best move from: [7, 4]:  0
+Swerve: 0.4347915324044458
+Updated move: 0
+Next Position: [6, 4]
+Current Reward: -110.0
+Best move from: [6, 4]:  3
+Swerve: 0.7793829217937525
+Updated move: 0
+Next Position: [5, 4]
+Current Reward: -111.0
+Best move from: [5, 4]:  3
+Swerve: 0.19768507460025309
+Updated move: 3
+Next Position: [5, 5]
+Current Reward: -112.0
+Best move from: [5, 5]:  3
+Swerve: 0.8629932355992223
+Updated move: 2
+Next Position: [6, 5]
+Current Reward: -113.0
+Best move from: [6, 5]:  3
+Swerve: 0.9834006771753128
+Updated move: 1
+Next Position: [6, 4]
+Current Reward: -114.0
+Best move from: [6, 4]:  3
+Swerve: 0.16384224140469872
+Updated move: 3
+Next Position: [6, 5]
+Current Reward: -115.0
+Best move from: [6, 5]:  3
+Swerve: 0.5973339439328592
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -116.0
+Best move from: [6, 6]:  3
+Swerve: 0.008986097667554982
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -117.0
+Best move from: [6, 7]:  3
+Swerve: 0.3865712826436294
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -118.0
+Best move from: [6, 8]:  3
+Swerve: 0.044160057931499574
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -119.0
+Best move from: [6, 9]:  0
+Swerve: 0.9566529677142359
+Updated move: 2
+Next Position: [7, 9]
+Current Reward: -120.0
+Best move from: [7, 9]:  0
+Swerve: 0.43614664687979765
+Updated move: 0
+Next Position: [6, 9]
+Current Reward: -121.0
+Best move from: [6, 9]:  0
+Swerve: 0.9489773067815628
+Updated move: 2
+Next Position: [7, 9]
+Current Reward: -122.0
+Best move from: [7, 9]:  0
+Swerve: 0.786305985935061
+Updated move: 1
+Next Position: [7, 8]
+Current Reward: -123.0
+Best move from: [7, 8]:  0
+Swerve: 0.8662892985816985
+Updated move: 3
+Next Position: [7, 9]
+Current Reward: -124.0
+Best move from: [7, 9]:  0
+Swerve: 0.17316542149594816
+Updated move: 0
+Next Position: [6, 9]
+Current Reward: -125.0
+Best move from: [6, 9]:  0
+Swerve: 0.07494858701310703
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: -26.0
+Total reward after one more iteration:************** 112.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.22199317108973948
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.8707323061773764
+Updated move: 3
+Next Position: [8, 5]
+Current Reward: -2.0
+Best move from: [8, 5]:  0
+Swerve: 0.20671915533942642
+Updated move: 0
+Next Position: [7, 5]
+Current Reward: -3.0
+Best move from: [7, 5]:  0
+Swerve: 0.9186109079379216
+Updated move: 2
+Next Position: [8, 5]
+Current Reward: -4.0
+Best move from: [8, 5]:  0
+Swerve: 0.48841118879482914
+Updated move: 0
+Next Position: [7, 5]
+Current Reward: -5.0
+Best move from: [7, 5]:  0
+Swerve: 0.6117438629026457
+Updated move: 0
+Next Position: [6, 5]
+Current Reward: -6.0
+Best move from: [6, 5]:  3
+Swerve: 0.7659078564803156
+Updated move: 0
+Next Position: [5, 5]
+Current Reward: -7.0
+Best move from: [5, 5]:  3
+Swerve: 0.5184179878729432
+Updated move: 3
+Next Position: [5, 6]
+Current Reward: -8.0
+Best move from: [5, 6]:  3
+Swerve: 0.29680050157622195
+Updated move: 3
+Next Position: [5, 7]
+Current Reward: -9.0
+Best move from: [5, 7]:  3
+Swerve: 0.18772122866125163
+Updated move: 3
+Next Position: [5, 8]
+Current Reward: -10.0
+Best move from: [5, 8]:  3
+Swerve: 0.08074126876487486
+Updated move: 3
+Next Position: [5, 9]
+Current Reward: 89.0
+Total reward after one more iteration:************** 201.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.8928601514360016
+Updated move: 3
+Next Position: [9, 5]
+Current Reward: -1.0
+Best move from: [9, 5]:  0
+Swerve: 0.3319798053011772
+Updated move: 0
+Next Position: [8, 5]
+Current Reward: -2.0
+Best move from: [8, 5]:  0
+Swerve: 0.8212291230578318
+Updated move: 3
+Next Position: [8, 6]
+Current Reward: -103.0
+Best move from: [8, 6]:  0
+Swerve: 0.0416966257252499
+Updated move: 0
+Next Position: [7, 6]
+Current Reward: -104.0
+Best move from: [7, 6]:  0
+Swerve: 0.10765667993596795
+Updated move: 0
+Next Position: [6, 6]
+Current Reward: -105.0
+Best move from: [6, 6]:  3
+Swerve: 0.5950520642062402
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -106.0
+Best move from: [6, 7]:  3
+Swerve: 0.5298173621928216
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -107.0
+Best move from: [6, 8]:  3
+Swerve: 0.4188074285566543
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -108.0
+Best move from: [6, 9]:  0
+Swerve: 0.33540784927332923
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: -9.0
+Total reward after one more iteration:************** 192.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.07630828937395717
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.7799187922401146
+Updated move: 1
+Next Position: [8, 3]
+Current Reward: -2.0
+Best move from: [8, 3]:  0
+Swerve: 0.4384092314408935
+Updated move: 0
+Next Position: [7, 3]
+Current Reward: -3.0
+Best move from: [7, 3]:  3
+Swerve: 0.7234651778309412
+Updated move: 0
+Next Position: [6, 3]
+Current Reward: -4.0
+Best move from: [6, 3]:  3
+Swerve: 0.9779895119966027
+Updated move: 1
+Next Position: [6, 2]
+Current Reward: -5.0
+Best move from: [6, 2]:  2
+Swerve: 0.5384958704104337
+Updated move: 2
+Next Position: [7, 2]
+Current Reward: -6.0
+Best move from: [7, 2]:  3
+Swerve: 0.5011204636599379
+Updated move: 3
+Next Position: [7, 3]
+Current Reward: -7.0
+Best move from: [7, 3]:  3
+Swerve: 0.07205113335976154
+Updated move: 3
+Next Position: [7, 4]
+Current Reward: -8.0
+Best move from: [7, 4]:  0
+Swerve: 0.26843898010187117
+Updated move: 0
+Next Position: [6, 4]
+Current Reward: -9.0
+Best move from: [6, 4]:  3
+Swerve: 0.49988250082555996
+Updated move: 3
+Next Position: [6, 5]
+Current Reward: -10.0
+Best move from: [6, 5]:  3
+Swerve: 0.6792299961209405
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -11.0
+Best move from: [6, 6]:  3
+Swerve: 0.8037390361043755
+Updated move: 2
+Next Position: [7, 6]
+Current Reward: -12.0
+Best move from: [7, 6]:  0
+Swerve: 0.3809411331485384
+Updated move: 0
+Next Position: [6, 6]
+Current Reward: -13.0
+Best move from: [6, 6]:  3
+Swerve: 0.06593634690590511
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -14.0
+Best move from: [6, 7]:  3
+Swerve: 0.28814559930799355
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -15.0
+Best move from: [6, 8]:  3
+Swerve: 0.9095935277196137
+Updated move: 1
+Next Position: [6, 7]
+Current Reward: -16.0
+Best move from: [6, 7]:  3
+Swerve: 0.2133853535799155
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -17.0
+Best move from: [6, 8]:  3
+Swerve: 0.4521239618176831
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -18.0
+Best move from: [6, 9]:  0
+Swerve: 0.9312060196890217
+Updated move: 2
+Next Position: [7, 9]
+Current Reward: -19.0
+Best move from: [7, 9]:  0
+Swerve: 0.024899227550348013
+Updated move: 0
+Next Position: [6, 9]
+Current Reward: -20.0
+Best move from: [6, 9]:  0
+Swerve: 0.6005489174641225
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: 79.0
+Total reward after one more iteration:************** 271.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.8734294027918162
+Updated move: 3
+Next Position: [9, 5]
+Current Reward: -1.0
+Best move from: [9, 5]:  0
+Swerve: 0.968540662820932
+Updated move: 2
+Next Position: [9, 5]
+Current Reward: -2.0
+Best move from: [9, 5]:  0
+Swerve: 0.86919454021392
+Updated move: 3
+Next Position: [9, 6]
+Current Reward: -3.0
+Best move from: [9, 6]:  3
+Swerve: 0.530855691555599
+Updated move: 3
+Next Position: [9, 7]
+Current Reward: -4.0
+Best move from: [9, 7]:  3
+Swerve: 0.2327283279772907
+Updated move: 3
+Next Position: [9, 8]
+Current Reward: -5.0
+Best move from: [9, 8]:  0
+Swerve: 0.011398804277429897
+Updated move: 0
+Next Position: [8, 8]
+Current Reward: -6.0
+Best move from: [8, 8]:  0
+Swerve: 0.4304688182924905
+Updated move: 0
+Next Position: [7, 8]
+Current Reward: -7.0
+Best move from: [7, 8]:  0
+Swerve: 0.4023513600373648
+Updated move: 0
+Next Position: [6, 8]
+Current Reward: -8.0
+Best move from: [6, 8]:  3
+Swerve: 0.5226746713525696
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -9.0
+Best move from: [6, 9]:  0
+Swerve: 0.47839179580240243
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: 90.0
+Total reward after one more iteration:************** 361.0
+Start state: [9, 4]
+Best move from: [9, 4]:  0
+Swerve: 0.010374153885699955
+Updated move: 0
+Next Position: [8, 4]
+Current Reward: -1.0
+Best move from: [8, 4]:  0
+Swerve: 0.5018745921487388
+Updated move: 0
+Next Position: [7, 4]
+Current Reward: -2.0
+Best move from: [7, 4]:  0
+Swerve: 0.4957732931341461
+Updated move: 0
+Next Position: [6, 4]
+Current Reward: -3.0
+Best move from: [6, 4]:  3
+Swerve: 0.13382952895927658
+Updated move: 3
+Next Position: [6, 5]
+Current Reward: -4.0
+Best move from: [6, 5]:  3
+Swerve: 0.14211108545453854
+Updated move: 3
+Next Position: [6, 6]
+Current Reward: -5.0
+Best move from: [6, 6]:  3
+Swerve: 0.21855867562607822
+Updated move: 3
+Next Position: [6, 7]
+Current Reward: -6.0
+Best move from: [6, 7]:  3
+Swerve: 0.41850818051045247
+Updated move: 3
+Next Position: [6, 8]
+Current Reward: -7.0
+Best move from: [6, 8]:  3
+Swerve: 0.24810116841355911
+Updated move: 3
+Next Position: [6, 9]
+Current Reward: -8.0
+Best move from: [6, 9]:  0
+Swerve: 0.08405965116535008
+Updated move: 0
+Next Position: [5, 9]
+Current Reward: 91.0
+Total reward after one more iteration:************** 452.0
